@@ -155,3 +155,17 @@ This project investigates the intersection of:
 - matchmaking optimization
 
 ---
+
+# Demo
+
+## Gameplay Analysis
+
+![Ask Agent Demo](assets/demo_screenshots/ask_agent_demo.png)
+
+---
+
+## Duo Recommendation
+
+![Duo Demo](assets/demo_screenshots/duo_demo.png)
+
+---
