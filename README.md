@@ -69,6 +69,8 @@ Returns:
 
 # System Architecture
 
+![System Architecture](assets/architecture_diagram.png)
+
 Main components:
 
 - Discord Bot (discord.py)
@@ -152,8 +154,3 @@ This project investigates the intersection of:
 - game analytics
 - matchmaking optimization
 
----
-
-# Status
-
-Active development 🚀
