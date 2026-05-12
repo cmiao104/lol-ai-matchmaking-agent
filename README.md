@@ -69,8 +69,6 @@ Returns:
 
 # System Architecture
 
-![System Architecture](assets/architecture_diagram.png)
-
 Main components:
 
 - Discord Bot (discord.py)
@@ -79,6 +77,8 @@ Main components:
 - ML Pairing Model
 - Firestore User Binding
 - Cloud Run Deployment
+
+![System Architecture](assets/architecture_diagram.png)
 
 ---
 
@@ -154,3 +154,4 @@ This project investigates the intersection of:
 - game analytics
 - matchmaking optimization
 
+---
